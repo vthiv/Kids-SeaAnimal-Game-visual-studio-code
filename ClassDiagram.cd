@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="COMP1551_SeaAnimal_Game.ParentUserAndPGSS">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ParentUserAndPGSS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.PlayerGetSetScore">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerGetSetScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.User">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAABAEAAAEAAAAAABAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.MainPage">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAARAAACAAAAAAAACAAAACAAAAAAAAABAIAABAAAA=</HashCode>
+      <FileName>Main Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.LevelsPage">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAggCAAAAQAAACCAAACASAAAAEAAEAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.Player_Name_Page">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAABwAQECAAAACAAAAAAAkAAAAEAAAAAA=</HashCode>
+      <FileName>Player Name Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.EasyLevel">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIhAAACAAQBYQAACUAACCAAAAAAAgAgACBACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.HardLevel">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkCAACAAIAYTAACEBAHiBQAAAAAgQAQABAAAEEI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.Normal_Level">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAghAAACAQABYQAACUMAAGIAAAAgAAAAAABSDAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COMP1551_SeaAnimal_Game.Score_Page">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAACAQCFAAAACAAgJCAgBEBgAIIAAIAAAAEAA=</HashCode>
+      <FileName>Score Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="COMP1551_SeaAnimal_Game.IUser">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAABAAAAAEAAAAAABAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>IUser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
